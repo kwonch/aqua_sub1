@@ -27,7 +27,7 @@ table, tr, th ,td {margin:0; padding:0; }
     width:1200px; height:2430px; margin:0 auto;
 }
 .background{ 
-    width: 1200px; height: 690px; background: url("img/banner4.jpg") no-repeat center/cover;
+    width: 1200px; height: 690px; background: url("imgs/banner4.jpg") no-repeat center/cover;
 }
 
 #top .background2 p{margin:200px 0 0 700px; display: inline-block;font-size: 50px;
@@ -58,7 +58,7 @@ table, tr, th ,td {margin:0; padding:0; }
 #top .t2{
     width: 1200px; height: 1000px; margin-top: 50px;;
 }
-#top .t2 .banner2{background-image: url(img/banner2.jpg);
+#top .t2 .banner2{background-image: url(imgs/banner2.jpg);
     width: 480px;height: 460px; border-radius: 10px;
 }
 #top .t2 .banner2_1{ text-align: center; font-size:30px; font-family:'IBMPlexSansKR-Regular';padding-top: 100px;  }
@@ -82,7 +82,7 @@ table, tr, th ,td {margin:0; padding:0; }
 #middle{width: 1200px;   margin:0 auto;}
 #middle .line{border-top:solid 1px #e0e0e0; }
 #middle .m1{width: 1200px; ; padding-top: 30px;  }
-.banner3{background:url("img/banner3.jpg") no-repeat center/cover;height: 400px; width: 900px; border-radius: 20px; margin:0 auto;}
+.banner3{background:url("imgs/banner3.jpg") no-repeat center/cover;height: 400px; width: 900px; border-radius: 20px; margin:0 auto;}
 #middle .m1 .title_1{ font-family: 'IBMPlexSansKR-SemiBold'; font-size: 45px; letter-spacing: 5px; text-align: center;}
 #middle .banner3 .title{text-align: center; font-size:45px;  font-family: 'IBMPlexSansKR-SemiBold';margin:0; padding-top: 70px;}
 #middle .banner3 .sub_title{text-align: center;   font-family: 'IBMPlexSansKR-SemiBold';font-size: 25px;margin:0;}

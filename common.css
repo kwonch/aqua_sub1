@@ -180,7 +180,7 @@ header {
   .footer {
     width: 100%;
     height: auto;
-    background-image: url("img/footer_back.jpg");
+    background-image: url("imgs/footer_back.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
