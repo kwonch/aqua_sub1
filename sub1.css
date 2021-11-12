@@ -123,8 +123,8 @@ table, tr, th ,td {margin:0; padding:0; }
 #middle .sub_title3{float:left;width: 150px; margin:20px 0 0 50px;font-size: 25px;font-family: 'IBMPlexSansKR-SemiBold';display: inline-block;}
 #middle .infor2{float:right;width: 800px; margin:30px 150px 0 0px; text-align: left;font-family: 'IBMPlexSansKR-SemiBold'; ;line-height: 15px; font-size: 18px;}
 
-#middle .sub_title4{float:left;width: 150px; margin:150px 0 0 50px;font-size: 25px;font-family: 'IBMPlexSansKR-SemiBold';display: inline-block; padding-top: 50px;}
-#middle .infor3{float:right; ; margin:0px 280px 0px 0px; width: 860px; text-align: left;font-family: 'IBMPlexSansKR-SemiBold'; line-height: 15px; font-size: 18px;padding-top: 50px;}
+#middle .sub_title4{float:left;width: 150px; margin:150px 0 0 40px;font-size: 25px;font-family: 'IBMPlexSansKR-SemiBold';display: inline-block; padding-top: 50px;}
+#middle .infor3{float:right; ; margin:0px 100px 0px 0px; width: 860px; text-align: left;font-family: 'IBMPlexSansKR-SemiBold'; line-height: 15px; font-size: 18px;padding-top: 50px;}
 
 #middle .line{border-bottom: 1px solid #e0e0e0; width: 100%; margin-bottom:50px;}
 
